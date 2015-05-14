@@ -1,0 +1,12 @@
+{
+  "name": "React",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-shell": "^0.4.1"
+  }
+}
